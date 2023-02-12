@@ -15,6 +15,6 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://qr.expo.dev/expo-go?owner=flexnerr&slug=coinbase-clone&releaseChannel=default&host=exp.host" alt="qr" width="200" height="200" /></a>
+  <a href="#"><img src="https://qr.expo.dev/expo-go?owner=flexnerr&slug=NikeAppClone&releaseChannel=default&host=exp.host" alt="qr" width="200" height="200" /></a>
   <a href="#"><img src="https://user-images.githubusercontent.com/99184393/182557606-b36f2540-1260-42bf-b547-ed5832e3615e.png" alt="qr" width="200" height="200" /></a>
 </div>
